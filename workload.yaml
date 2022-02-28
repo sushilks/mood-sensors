@@ -7,6 +7,6 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/dektlong/mood-sensors
+      url: https://github.com/sushilks/mood-sensors
       ref:
         branch: main
